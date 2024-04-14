@@ -1,1 +1,7 @@
-
+{
+  "VERSION": "https://github.com/sunwurp/luncerwinhub/raw/main/API/Version.API",
+  "DEVELOPER": "https://github.com/sunwurp/luncerwinhub/raw/main/API/Verify/Developer.API",
+  "ADMIN": "https://github.com/sunwurp/luncerwinhub/raw/main/API/Verify/Admin.API",
+  "PARTNER": "https://github.com/sunwurp/luncerwinhub/raw/main/API/Verify/Partner.API",
+  "BAN": "https://github.com/sunwurp/luncerwinhub/raw/main/API/Verify/Blacklist.API"
+}
